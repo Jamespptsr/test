@@ -1,1 +1,65 @@
-IyBDb21wb3VuZCBJbnRlcmVzdCBDYWxjdWxhdG9yCgpBIHNpbXBsZSB5ZXQgcG93ZXJmdWwgd2ViLWJhc2VkIGNvbXBvdW5kIGludGVyZXN0IGNhbGN1bGF0b3IgdGhhdCBoZWxwcyB5b3UgdW5kZXJzdGFuZCB0aGUgZ3Jvd3RoIG9mIHlvdXIgaW52ZXN0bWVudHMgb3ZlciB0aW1lLiBUaGlzIGNhbGN1bGF0b3IgdGFrZXMgaW50byBhY2NvdW50IGJvdGggaW5pdGlhbCBwcmluY2lwYWwgYW5kIG1vbnRobHkgaW52ZXN0bWVudHMsIHByb3ZpZGluZyBhIGRldGFpbGVkIHllYXItYnkteWVhciBicmVha2Rvd24gb2YgeW91ciBpbnZlc3RtZW50IGdyb3d0aC4KCiMjIEZlYXR1cmVzCgotIENhbGN1bGF0ZSBjb21wb3VuZCBpbnRlcmVzdCB3aXRoIG1vbnRobHkgY29udHJpYnV0aW9ucwotIDMwLXllYXIgaW52ZXN0bWVudCBwcm9qZWN0aW9uCi0gTW9udGhseSBjb21wb3VuZGluZyBmcmVxdWVuY3kKLSBEZXRhaWxlZCBicmVha2Rvd24gaW5jbHVkaW5nOgogIC0gUHJpbmNpcGFsIGFtb3VudAogIC0gSW50ZXJlc3QgZWFybmVkCiAgLSBUb3RhbCBiYWxhbmNlCi0gVXNlci1mcmllbmRseSBpbnRlcmZhY2UKLSBSZXNwb25zaXZlIGRlc2lnbgotIFJlYWwtdGltZSBjYWxjdWxhdGlvbnMKCiMjIEhvdyB0byBVc2UKCjEuIEVudGVyIHlvdXIgaW5pdGlhbCBpbnZlc3RtZW50IGFtb3VudCBpbiB0aGUgIkluaXRpYWwgUHJpbmNpcGFsIiBmaWVsZAoyLiBJbnB1dCB5b3VyIHBsYW5uZWQgbW9udGhseSBjb250cmlidXRpb24KMy4gU2V0IHlvdXIgZXhwZWN0ZWQgYW5udWFsIGludGVyZXN0IHJhdGUgKGFzIGEgcGVyY2VudGFnZSkKNC4gQ2xpY2sgIkNhbGN1bGF0ZSBSZXR1cm5zIiB0byBzZWUgeW91ciBpbnZlc3RtZW50IGdyb3d0aCBwcm9qZWN0aW9uCgojIyBUZWNobmljYWwgRGV0YWlscwoKVGhlIGNhbGN1bGF0b3IgaXMgYnVpbHQgdXNpbmc6Ci0gSFRNTDUKLSBDU1MzCi0gVmFuaWxsYSBKYXZhU2NyaXB0Ci0gUmVzcG9uc2l2ZSBkZXNpZ24gcHJpbmNpcGxlcwoKIyMgQ2FsY3VsYXRpb25zCgpUaGUgY2FsY3VsYXRvciB1c2VzIHRoZSBmb2xsb3dpbmcgYXBwcm9hY2g6Ci0gQ29tcG91bmRzIGludGVyZXN0IG1vbnRobHkKLSBBZGRzIG1vbnRobHkgaW52ZXN0bWVudHMgYWZ0ZXIgYXBwbHlpbmcgaW50ZXJlc3QKLSBTaG93cyB5ZWFybHkgc3VtbWFyaWVzIG9mOgogIC0gVG90YWwgcHJpbmNpcGFsIGludmVzdGVkIChpbml0aWFsICsgbW9udGhseSBjb250cmlidXRpb25zKQogIC0gSW50ZXJlc3QgZWFybmVkIGR1cmluZyB0aGUgeWVhcgogIC0gVG90YWwgYmFsYW5jZSBhdCB5ZWFyIGVuZAoKIyMgRXhhbXBsZQoKSWYgeW91IHN0YXJ0IHdpdGg6Ci0gSW5pdGlhbCBQcmluY2lwYWw6ICQxLDAwMAotIE1vbnRobHkgSW52ZXN0bWVudDogJDEwMAotIEFubnVhbCBJbnRlcmVzdCBSYXRlOiA3JQoKVGhlIGNhbGN1bGF0b3Igd2lsbCBzaG93IHlvdToKLSBZZWFyLWJ5LXllYXIgZ3Jvd3RoCi0gVG90YWwgcHJpbmNpcGFsIGludmVzdGVkCi0gSW50ZXJlc3QgZWFybmVkIGVhY2ggeWVhcgotIFJ1bm5pbmcgYmFsYW5jZQoKIyMgVXNhZ2UgTm90ZXMKCi0gQWxsIG1vbmV0YXJ5IGlucHV0cyBzaG91bGQgYmUgaW4gZG9sbGFycyAoJCkKLSBJbnRlcmVzdCByYXRlIHNob3VsZCBiZSBlbnRlcmVkIGFzIGEgcGVyY2VudGFnZSAoZS5nLiwgNyBmb3IgNyUpCi0gUmVzdWx0cyBhcmUgZGlzcGxheWVkIGZvciBhIDMwLXllYXIgcGVyaW9kCi0gQ2FsY3VsYXRpb25zIGFzc3VtZSBtb250aGx5IGNvbXBvdW5kaW5nCgojIyBJbXBsZW1lbnRhdGlvbiBEZXRhaWxzCgpUaGUgY2FsY3VsYXRvciBwZXJmb3JtcyByZWFsLXRpbWUgY2FsY3VsYXRpb25zIHVzaW5nIEphdmFTY3JpcHQgYW5kIHVwZGF0ZXMgdGhlIGRpc3BsYXkgaW1tZWRpYXRlbHkuIFJlc3VsdHMgYXJlIGZvcm1hdHRlZCBpbiBhIGNsZWFyLCB0YWJ1bGFyIGZvcm1hdCBmb3IgZWFzeSByZWFkaW5nIGFuZCBhbmFseXNpcy4=
+# Compound Interest Calculator
+
+A simple yet powerful web-based compound interest calculator that helps you understand the growth of your investments over time. This calculator takes into account both initial principal and monthly investments, providing a detailed year-by-year breakdown of your investment growth.
+
+## Features
+
+- Calculate compound interest with monthly contributions
+- 30-year investment projection
+- Monthly compounding frequency
+- Detailed breakdown including:
+  - Principal amount
+  - Interest earned
+  - Total balance
+- User-friendly interface
+- Responsive design
+- Real-time calculations
+
+## How to Use
+
+1. Enter your initial investment amount in the "Initial Principal" field
+2. Input your planned monthly contribution
+3. Set your expected annual interest rate (as a percentage)
+4. Click "Calculate Returns" to see your investment growth projection
+
+## Technical Details
+
+The calculator is built using:
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Responsive design principles
+
+## Calculations
+
+The calculator uses the following approach:
+- Compounds interest monthly
+- Adds monthly investments after applying interest
+- Shows yearly summaries of:
+  - Total principal invested (initial + monthly contributions)
+  - Interest earned during the year
+  - Total balance at year end
+
+## Example
+
+If you start with:
+- Initial Principal: $1,000
+- Monthly Investment: $100
+- Annual Interest Rate: 7%
+
+The calculator will show you:
+- Year-by-year growth
+- Total principal invested
+- Interest earned each year
+- Running balance
+
+## Usage Notes
+
+- All monetary inputs should be in dollars ($)
+- Interest rate should be entered as a percentage (e.g., 7 for 7%)
+- Results are displayed for a 30-year period
+- Calculations assume monthly compounding
+
+## Implementation Details
+
+The calculator performs real-time calculations using JavaScript and updates the display immediately. Results are formatted in a clear, tabular format for easy reading and analysis.
